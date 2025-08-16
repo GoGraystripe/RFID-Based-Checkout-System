@@ -1,0 +1,1 @@
+Built a CLI-based RFID tracker using a doubly linked list with sorted insertion via \texttt{BigInteger}. Supported item movement, cart checkout, and in-place node removal with location-based filtering.
